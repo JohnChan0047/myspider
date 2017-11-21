@@ -1,5 +1,5 @@
 # DOTA2MAX数据  
-# 一、包含以下数据：以字典的形式返回  
+# 包含以下数据：以字典的形式返回  
 "play_id": "156522248",  
 "match_id": "3314795219",  
 "match_url": "http://www.dotamax.com/match/detail/3314795219",  
